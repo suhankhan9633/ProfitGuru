@@ -1,15 +1,15 @@
 {
     "PGURUstatus": {
         "PGURUappName": "ProfitGuru Trade Calculator",
-        "PGURUadStatus": 0,
-        "PGURUadmob_adstatus": 0,
+        "PGURUadStatus": 1,
+        "PGURUadmob_adstatus": 1,
         "PGURUfacebook_adstatus": 0
     },
     "admob": {
-        "PGURUappopen_id": "",
-        "PGURUbanner_id": "",
-        "PGURUnative_id": "",
-        "PGURUinterstitial_id": ""
+        "PGURUappopen_id": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_APP_OPEN_9928_191124",
+        "PGURUbanner_id": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_BANNER_9931_191124",
+        "PGURUnative_id": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_NATIVE_9929_191124",
+        "PGURUinterstitial_id": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_INTERSTITIAL_9930_191124"
     },
     "facebook": {
         "PGURUbanner_id": "",
@@ -19,23 +19,23 @@
     "frequency_capping": {
         "PGURUfrequency_banner": "0",
         "PGURUfrequency_native": "0",
-        "PGURUfrequency_interstitial": "0",
-        "PGURUfrequency_Backinterstitial": "0",
+        "PGURUfrequency_interstitial": "1",
+        "PGURUfrequency_Backinterstitial": "2",
         "PGURUfrequency_affiliate": "0"
     },
     "extra": {
         "PGURUprivacyPolicy": "https://profitgurutradecalculator.blogspot.com/2024/11/profitguru-trade-calculator-privacy.html",
-        "PGURUnaffiliate_url": "null",
-        "PGURUextrascreen": "0",
+        "PGURUnaffiliate_url": "https://1104.go.mglgamez.com/pregames",
+        "PGURUextrascreen": "1",
         "PGURUinterAdDialog": 0,
-        "PGURUnativeLayoutRandom": 0,
+        "PGURUnativeLayoutRandom": 1,
         "PGURUnativeType": "default",
-        "PGURUbannerTimer": 250000,
+        "PGURUbannerTimer": 10000,
         "PGURUCollapsiblebannerTimer": 500000,
         "PGURUnativeclickupgrade": 0,
         "PGURUaffiliate_url": "null",
-        "PGURUfbAppID": "1234",
-        "PGURUfbClientID": "5678",
+        "PGURUfbAppID": "1105414644546550",
+        "PGURUfbClientID": "9d08abd7bf8ab57a157be3e71b20ac98",
         "PGURUuserTracking": 0,
         "PGURUuserTrackingURL": "utm_source=google-play&utm_medium=organic",
         "PGURUuserTrackingType": 0,
@@ -45,7 +45,7 @@
         "PGURUNativeisBannerAdShown": false,
         "PGURUBannerisNativeAdShown": false,
         "PGURUReturnUserCare": false,
-        "PGURUenableNotify": ""
+        "PGURUenableNotify": "f10318c6-4308-47af-9820-795ef8f72bb3"
     },
     "appInstallextra": {
         "adStatus": 0,
