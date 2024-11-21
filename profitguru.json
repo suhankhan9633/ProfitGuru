@@ -1,0 +1,82 @@
+{
+    "PGURUstatus": {
+        "PGURUappName": "LoanDay - EMI Calculator",
+        "PGURUadStatus": 0,
+        "PGURUadmob_adstatus": 0,
+        "PGURUfacebook_adstatus": 0
+    },
+    "admob": {
+        "PGURUappopen_id": "",
+        "PGURUbanner_id": "",
+        "PGURUnative_id": "",
+        "PGURUinterstitial_id": ""
+    },
+    "facebook": {
+        "PGURUbanner_id": "",
+        "PGURUnative_id": "",
+        "PGURUinterstitial_id": ""
+    },
+    "frequency_capping": {
+        "PGURUfrequency_banner": "0",
+        "PGURUfrequency_native": "0",
+        "PGURUfrequency_interstitial": "0",
+        "PGURUfrequency_Backinterstitial": "0",
+        "PGURUfrequency_affiliate": "0"
+    },
+    "extra": {
+        "PGURUprivacyPolicy": "https:\/\/loandayemicalculator.blogspot.com\/2024\/11\/privacy-policy.html",
+        "PGURUnaffiliate_url": "https:\/\/forms.gle\/vMo7Hy79BbSTjNvV9",
+        "PGURUextrascreen": "0",
+        "PGURUinterAdDialog": 0,
+        "PGURUnativeLayoutRandom": 0,
+        "PGURUnativeType": "default",
+        "PGURUbannerTimer": 250000,
+        "PGURUCollapsiblebannerTimer": 500000,
+        "PGURUnativeclickupgrade": 0,
+        "PGURUaffiliate_url": "null",
+        "PGURUfbAppID": "1234",
+        "PGURUfbClientID": "5678",
+        "PGURUuserTracking": 0,
+        "PGURUuserTrackingURL": "utm_source=google-play&utm_medium=organic",
+        "PGURUuserTrackingType": 0,
+        "PGURUcollapsizeBanner": 0,
+        "PGURUOpenisInter": false,
+        "PGURUsomeTimeAgain": 0,
+        "PGURUNativeisBannerAdShown": false,
+        "PGURUBannerisNativeAdShown": false,
+        "PGURUReturnUserCare": false,
+        "PGURUenableNotify": ""
+    },
+    "appInstallextra": {
+        "adStatus": 0,
+        "admob_adstatus": 0,
+        "facebook_adstatus": 0,
+        "appopen_id": "",
+        "banner_id": "",
+        "native_id": "",
+        "fb_banner_id": "",
+        "fb_native_id": "",
+        "fb_interstitial_id": "",
+        "frequency_banner": "0",
+        "frequency_native": "0",
+        "frequency_interstitial": "0",
+        "frequency_Backinterstitial": "0",
+        "frequency_affiliate": "0",
+        "extrascreen": "0",
+        "interAdDialog": 0,
+        "nativeLayoutRandom": 0,
+        "nativeType": "default",
+        "bannerTimer": 200000,
+        "CollapsiblebannerTimer": 200000,
+        "nativeclickupgrade": 0,
+        "affiliate_url": "null",
+        "collapsizeBanner": 0,
+        "OpenisInter": false,
+        "someTimeAgain": 0,
+        "NativeisBannerAdShown": false,
+        "BannerisNativeAdShown": false,
+        "LoanDayReturnUserCare": false,
+        "enableNotify": ""
+    },
+    "customBanner": []
+}
