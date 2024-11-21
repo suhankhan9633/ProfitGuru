@@ -1,15 +1,15 @@
 {
     "PGURUstatus": {
-        "PGURUappName": "LoanDay - EMI Calculator",
-        "PGURUadStatus": 0,
-        "PGURUadmob_adstatus": 0,
+        "PGURUappName": "ProfitGuru Trade Calculator",
+        "PGURUadStatus": 1,
+        "PGURUadmob_adstatus": 1,
         "PGURUfacebook_adstatus": 0
     },
     "admob": {
-        "PGURUappopen_id": "",
-        "PGURUbanner_id": "",
-        "PGURUnative_id": "",
-        "PGURUinterstitial_id": ""
+        "PGURUappopen_id": "/21775744923/example/app-open",
+        "PGURUbanner_id": "/21775744923/example/adaptive-banner",
+        "PGURUnative_id": "/21775744923/example/native",
+        "PGURUinterstitial_id": "/21775744923/example/interstitial"
     },
     "facebook": {
         "PGURUbanner_id": "",
@@ -24,11 +24,11 @@
         "PGURUfrequency_affiliate": "0"
     },
     "extra": {
-        "PGURUprivacyPolicy": "https:\/\/loandayemicalculator.blogspot.com\/2024\/11\/privacy-policy.html",
-        "PGURUnaffiliate_url": "https:\/\/forms.gle\/vMo7Hy79BbSTjNvV9",
-        "PGURUextrascreen": "0",
+        "PGURUprivacyPolicy": "https://profitgurutradecalculator.blogspot.com/2024/11/profitguru-trade-calculator-privacy.html",
+        "PGURUnaffiliate_url": "null",
+        "PGURUextrascreen": "1",
         "PGURUinterAdDialog": 0,
-        "PGURUnativeLayoutRandom": 0,
+        "PGURUnativeLayoutRandom": 1,
         "PGURUnativeType": "default",
         "PGURUbannerTimer": 250000,
         "PGURUCollapsiblebannerTimer": 500000,
