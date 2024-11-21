@@ -1,15 +1,15 @@
 {
     "PGURUstatus": {
         "PGURUappName": "ProfitGuru Trade Calculator",
-        "PGURUadStatus": 1,
-        "PGURUadmob_adstatus": 1,
+        "PGURUadStatus": 0,
+        "PGURUadmob_adstatus": 0,
         "PGURUfacebook_adstatus": 0
     },
     "admob": {
-        "PGURUappopen_id": "/21775744923/example/app-open",
-        "PGURUbanner_id": "/21775744923/example/adaptive-banner",
-        "PGURUnative_id": "/21775744923/example/native",
-        "PGURUinterstitial_id": "/21775744923/example/interstitial"
+        "PGURUappopen_id": "",
+        "PGURUbanner_id": "",
+        "PGURUnative_id": "",
+        "PGURUinterstitial_id": ""
     },
     "facebook": {
         "PGURUbanner_id": "",
@@ -26,9 +26,9 @@
     "extra": {
         "PGURUprivacyPolicy": "https://profitgurutradecalculator.blogspot.com/2024/11/profitguru-trade-calculator-privacy.html",
         "PGURUnaffiliate_url": "null",
-        "PGURUextrascreen": "1",
+        "PGURUextrascreen": "0",
         "PGURUinterAdDialog": 0,
-        "PGURUnativeLayoutRandom": 1,
+        "PGURUnativeLayoutRandom": 0,
         "PGURUnativeType": "default",
         "PGURUbannerTimer": 250000,
         "PGURUCollapsiblebannerTimer": 500000,
