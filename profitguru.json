@@ -30,7 +30,7 @@
         "PGURUinterAdDialog": 0,
         "PGURUnativeLayoutRandom": 1,
         "PGURUnativeType": "default",
-        "PGURUbannerTimer": 10000,
+        "PGURUbannerTimer": 300000,
         "PGURUCollapsiblebannerTimer": 500000,
         "PGURUnativeclickupgrade": 0,
         "PGURUaffiliate_url": "null",
