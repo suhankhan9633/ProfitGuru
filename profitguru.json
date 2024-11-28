@@ -6,10 +6,10 @@
         "PGURUfacebook_adstatus": 0
     },
     "admob": {
-        "PGURUappopen_id": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_APP_OPEN_9928_191124",
-        "PGURUbanner_id": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_BANNER_9931_191124",
-        "PGURUnative_id": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_NATIVE_9929_191124",
-        "PGURUinterstitial_id": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_INTERSTITIAL_9930_191124"
+        "PGURUappopen_id": "",
+        "PGURUbanner_id": "",
+        "PGURUnative_id": "",
+        "PGURUinterstitial_id": ""
     },
     "facebook": {
         "PGURUbanner_id": "",
@@ -26,7 +26,7 @@
     "extra": {
         "PGURUprivacyPolicy": "https://profitgurutradecalculator.blogspot.com/2024/11/profitguru-trade-calculator-privacy.html",
         "PGURUnaffiliate_url": "https://1104.go.mglgamez.com/pregames",
-        "PGURUextrascreen": "1",
+        "PGURUextrascreen": "0",
         "PGURUinterAdDialog": 0,
         "PGURUnativeLayoutRandom": 1,
         "PGURUnativeType": "default",
